@@ -1,0 +1,11 @@
+﻿ES2RT linker log file created on 30 Tháng Mười Một 2021 4:18:53 CH
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ AnimationAppearanceWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+User Info - Resource Id [ RequiredLicense ], caused in [ LinkerLicense ]
+0 errors, 1 warnings - succeeded.
+
+Writing "D:\User\Source code\SCADA\Bài 2\WinCC\HMI_bài2.Device_1"...
+Done.

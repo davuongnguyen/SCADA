@@ -1,0 +1,5 @@
+Nâng cấp thêm:
+- Phân quyền (user, password)
+- Lưu trữ nhiệt độ theo thời gian, 5s 1 lần
+- Vẽ đồ thị hiển thị giá trị đo đc
+- Khi nhiệt độ đo đc > 35 độ => cảnh báo (bằng đèn + messeger)
