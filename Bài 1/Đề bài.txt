@@ -1,0 +1,4 @@
+Thiết kế một hệ thống điều khiển giám sát sử dụng plc S7-300 và màn HMI, các thiết bị gồm quạt, đèn và cảm biến PT100
+- có 2 chế độ: tự động và bằng tay
+	- Chế độ tự động: bật quạt khi nhiệt độ cao hơn ngưỡng, bật đèn khi nhiệt độ thấp hơn ngưỡng.
+	- Chế độ bằng tay: tắt bật quạt và đèn theo các nút mềm trên màn HMI.

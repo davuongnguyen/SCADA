@@ -1,0 +1,11 @@
+﻿ES2RT linker log file created on 01 Tháng Mười Hai 2021 5:13:50 CH
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+User Info - Resource Id [ RequiredLicense ], caused in [ LinkerLicense ]
+User Info - Resource Id [ RequiredLicense ], caused in [ LinkerLicense ]
+0 errors, 0 warnings - succeeded.
+
+Writing "D:\User\Source code\SCADA\Bài 3\HMI\Project.Device_1"...
+Done.

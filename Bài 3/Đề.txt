@@ -1,0 +1,3 @@
+Cải thiện thêm:
+ - Chỉnh lại giao diện cho đẹp.
+ - Thêm đk qua internet.

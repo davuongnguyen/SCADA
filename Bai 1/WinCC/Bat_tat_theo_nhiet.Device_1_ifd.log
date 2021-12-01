@@ -1,9 +1,0 @@
-﻿ES2RT linker log file created on 30 Tháng Mười Một 2021 12:42:15 CH
-
-Linking...
-User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
-User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
-0 errors, 0 warnings - succeeded.
-
-Writing "D:\User\Source code\SCADA\Bai 1\WinCC\Bat_tat_theo_nhiet.Device_1"...
-Done.
